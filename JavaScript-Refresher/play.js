@@ -9,4 +9,5 @@ function summarizeUser(userName, userAge, userHasHobby) {
 }
 
 console.log(summarizeUser(userName, age, hasHobbies));
+
 // Name is Praabindh, age is 24 and the user has hobbies: true
