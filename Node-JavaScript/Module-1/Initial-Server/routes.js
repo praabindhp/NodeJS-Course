@@ -42,5 +42,5 @@ const requestHandler = (req, res) => {
 
 module.exports = {
     handler: requestHandler,
-    someText: "Howdy, Its Praabindh's Server"
+    someText: "Howdy, Its Praabindh's ⚓ Server"
 }
